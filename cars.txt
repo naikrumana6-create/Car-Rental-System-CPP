@@ -1,1 +1,6 @@
 345 Lambo w34 2012 0
+102 Toyota Corolla 2020 0
+265 Honda Civic 2019 0
+312 Hyundai i20 2021 1
+400 Suzuki Swift 2018 1
+523 Kia Seltos 2022 1
